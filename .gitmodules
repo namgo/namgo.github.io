@@ -1,0 +1,3 @@
+[submodule "aframe-camera-listener-component"]
+	path = aframe-camera-listener-component
+	url = https://github.com/namgo/aframe-camera-listener-component
